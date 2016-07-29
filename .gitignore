@@ -1,0 +1,4 @@
+*.html
+*.xml
+auth_vars.py
+*.pyc
