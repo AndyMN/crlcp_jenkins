@@ -2,3 +2,4 @@
 *.xml
 auth_vars.py
 *.pyc
+*.log
