@@ -6,7 +6,7 @@ Suite Setup     CHECK CREDENTIALS   ${BASE_URL}         # Checks if we can login
 *** Variables ***
 ${BASE_URL}   https://prometheus.desy.de/Users/${USERNAME}/Private/
 
-${FILE_DIR}     /scratch/jenkins/jenkins/workspace/RobotIntro/
+${FILE_DIR}     /scratch/jenkins/jenkins/workspace/RobotIntro/crlcp/
 ${FILE_NAME}    testfile
 
 
